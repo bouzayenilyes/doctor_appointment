@@ -47,13 +47,13 @@ The aim of this project is to design and develop an application that enables med
 ## Architecture du Projet / Project Architecture
 
 ### Diagramme de cas d'utilisation - Médecin / Use Case Diagram - Doctor
-![Cas d'utilisation Médecin](./docs/UC_doctor.png)
+![Cas d'utilisation Médecin](./Docs/UC_dotor.png)
 
 ### Diagramme de cas d'utilisation - Patient / Use Case Diagram - Patient
-![Cas d'utilisation Patient](./docs/UC_patient.png)
+![Cas d'utilisation Patient](./Docs/UC_patient.png)
 
 ### Diagramme de Classes / Class Diagram
-![Diagramme de Classes](./docs/classDiagram.png)
+![Diagramme de Classes](./Docs/classDiagram.png)
 
 ## Structure du Projet / Project Structure
 ```

@@ -4,8 +4,8 @@ FROM tomcat:11-jdk21
 # Set environment variables for MySQL
 ENV MYSQL_ROOT_PASSWORD=root
 ENV MYSQL_DATABASE=bd_cabinetmedicale
-ENV MYSQL_USER=myuser
-ENV MYSQL_PASSWORD=Strong@Independent1Password
+ENV MYSQL_USER=root
+ENV MYSQL_PASSWORD=""
 
 # Expose ports
 EXPOSE 8080 3309
